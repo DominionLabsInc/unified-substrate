@@ -1,0 +1,9 @@
+{
+  "measured_at": "2026-09-18",
+  "note": "Counts quoted in section 14. Code counts cover the substrate core; graph counts are rows in the persistent store.",
+  "core_modules": 284,
+  "core_lines": 200061,
+  "concepts": 257955,
+  "concept_relations": 205877,
+  "beliefs": 205295
+}
