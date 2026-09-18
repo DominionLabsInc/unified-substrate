@@ -5,8 +5,8 @@ boundary that decides what becomes authoritative.**
 
 Stefan Ragland, Dominion Labs Research & Development. Published 18 March 2025.
 
-- Paper (PDF): [`paper/unified-substrate.pdf`](paper/unified-substrate.pdf)
-- Paper (web): <https://dmnlabs.org/research/unified-substrate/>
+- Paper: <https://dmnlabs.org/research/unified-substrate/>
+- Paper (offline copy): [`paper/unified-substrate.html`](paper/unified-substrate.html)
 - Contact: research@dmnlabs.org
 
 ## What this document is
